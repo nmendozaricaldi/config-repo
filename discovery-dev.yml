@@ -5,7 +5,7 @@ spring:
     security: 
         basic:
             enabled: true
-            path=/**
+            path: /**
         user:
             name: system
             password: systemPass
